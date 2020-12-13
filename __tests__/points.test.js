@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 // @ts-check
 
 import calculateDistance from '../src/points';
